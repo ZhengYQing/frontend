@@ -28,6 +28,7 @@
 export default {
   data () {
     return {
+      radio: '',
       // 登录框的数据绑定对象
       loginForm: {
         username: '',
